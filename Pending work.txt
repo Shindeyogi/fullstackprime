@@ -1,0 +1,71 @@
+Validated Forms
+Admin signup/login --->
+- Add Center
+- Enquiry
+- Add Event
+- Add Trainer
+
+
+Non Validated Forms --->
+-Employee signup/login
+-Employer signup/login
+-Add Gallery Images
+
+
+Total User-side Forms --->
+- Student Registration
+- Employee signup/login
+- Employer signup/login
+- Student Enquiry
+- Another small Enquiry Form
+
+
+Total Admin-side Forms --->
+- Admin signup/login
+- Add Center
+- Add Courses
+- Add Management Employee
+- Add Trainer
+- Add Event
+- Add Gallery Images
+- Add Placement count
+- Take Student Attendance
+- Post Student Assesment
+- Give Student Certificates
+
+
+fetch :
+id----name----email----contact----Enable----action
+1                                 checkbox      edit/delete
+|
+|
+|
+|
+update button
+
+
+Admin-side Fetched Forms
+- Employee
+- Job Provider
+- Trainer
+- 
+---------------------------------------------------------------------
+
+
+Employees Dashboard--->
+1.Management
+
+
+
+
+Placement
+-Ongoing Placement-
+--job role
+--experience
+--job requirement
+--Package --apply--
+
+
+
+
+
